@@ -1,7 +1,7 @@
 def my_each (array)
   i = 0 
   
-  while collection.size < i 
+  while array.length < i 
   yield i 
   i += 1 
   end
