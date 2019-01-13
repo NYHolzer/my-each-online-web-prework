@@ -1,4 +1,4 @@
-def my_each (collection)
+def my_each (array)
   i = 0 
   
   while collection.size < i 
