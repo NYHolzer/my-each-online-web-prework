@@ -1,3 +1,8 @@
-def my_each # put argument(s) here
-  # code here
+def my_each (collection)
+  i = 0 
+  
+  while collection.size < i 
+  
+  i += 1 
+  
 end
